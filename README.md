@@ -1,0 +1,1 @@
+This is part of The Odin Project html Fundamentals Course, I choose to do a basic recipe website inspired by one of my favorite games: The Elder Scrolls V: Skyrim. It's just a simple project to put in practice the fundamentals of html.
