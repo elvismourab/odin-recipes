@@ -20,6 +20,10 @@ h1 {
     font-style: italic;
     font-weight: 700;
     font-size: 40px;
+    border: 6px solid brown;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 0 40px 20px;
 }
 
 .recipe-list li {
