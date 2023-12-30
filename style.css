@@ -47,4 +47,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: auto;
+    border: 4px ridge red;
+    background-color: floralwhite;
+    margin: 25px auto;
 }
