@@ -1,19 +1,7 @@
-/* * {
+* {
     font-family: Georgia, "Times New Roman", Verdana;
-    font-size: 24px;
-    background-color: burlywood;
+    background-color: wheat;
 }
-
-h1 {
-    background-color: rgb(180, 180, 216);
-    color: rgb(180, 0, 0);
-    font-size: 40px;
-    outline-style: double;
-    outline-color: black;
-
-    font-style: italic;
-    text-align: center;
-} */
 
 .title {
     text-align: center;
