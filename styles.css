@@ -34,3 +34,32 @@ body {
     color: #fff;
 }
 
+.recipe-details {
+    background-color: burlywood;
+    margin: 2rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+.recipe-title {
+    font-size: 2rem;
+    text-decoration: underline;
+    margin-bottom: 2rem;
+}
+
+img {
+    border: 0.6rem double #790000;
+    background: #fff;
+    margin-bottom: 2rem;
+}
+
+p {
+    margin: 2rem;
+}
+
+.recipe-steps {
+    background-color: #fff;
+    padding: 2rem;
+    text-align: left;
+    font-style: italic;
+}
